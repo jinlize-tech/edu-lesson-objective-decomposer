@@ -1,0 +1,24 @@
+{
+  "number": 29,
+  "product_id": "JLZ-EDU-SK-023",
+  "chinese_name": "教学目标分解",
+  "english_name": "Lesson Objective Decomposer",
+  "repository_name": "edu-lesson-objective-decomposer",
+  "product_type": "Skill",
+  "category": "03 教学教研中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-lesson-objective-decomposer-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "课程标准、课次目标、学情起点、教学内容和评价要求",
+  "main_output": "总目标、分课时目标、可观察行为、评价证据和目标检查表",
+  "package_entries": [
+    "edu-lesson-objective-decomposer/SKILL.md",
+    "edu-lesson-objective-decomposer/references/DOMAIN_GUIDE.md",
+    "edu-lesson-objective-decomposer/references/EXAMPLES.md",
+    "edu-lesson-objective-decomposer/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

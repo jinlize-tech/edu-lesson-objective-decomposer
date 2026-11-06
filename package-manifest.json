@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-023",
+  "repository_name": "edu-lesson-objective-decomposer",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-lesson-objective-decomposer-v1.0.0.zip",
+  "sha256": "D04A94B79C6F032F2CA8F84232943697FC9936F4D0AC48296C2554C612517C31",
+  "bytes": 4825,
+  "entries": [
+    "edu-lesson-objective-decomposer/SKILL.md",
+    "edu-lesson-objective-decomposer/references/DOMAIN_GUIDE.md",
+    "edu-lesson-objective-decomposer/references/EXAMPLES.md",
+    "edu-lesson-objective-decomposer/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:12:10.7132420+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
