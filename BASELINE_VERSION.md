@@ -15,3 +15,23 @@
 - Frozen at: 2026-11-06
 
 Any later change to the product specification or product boundary must create an explicit version change, diff record, and re-audit. The frozen Apache-2.0 license remains in force unless a separately approved license migration is completed.
+
+## Current Main Identity Supplement (v1.0.2)
+
+This section supplements missing current-main identity fields without altering the frozen baseline text above.
+
+- Product ID: `JLZ-EDU-SK-023`
+- Product name (Chinese): `教学目标分解`
+- Product name (English): `Lesson Objective Decomposer`
+- Product type: `Skill`
+- Business section: `03 教学教研中心`
+- GitHub repository: `edu-lesson-objective-decomposer`
+- Baseline tag: `education-product-baseline-v1.0.0`
+- Baseline commit: `9f6a9a81c452f6b5872e33e3912802d8f56fdb13`
+- Product specification SHA-256: `A372A7C3F74342E9B925D5EDC107C87C2A428FEDC5A676A7E123C10292908204`
+- License: `Apache-2.0`
+- LICENSE SHA-256: `CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30`
+- Audit status: `PASS`
+- Revision basis: `Product ID and names were missing from the original baseline header; values are reconciled from the frozen 100-product baseline manifest and product metadata.`
+- Historical boundary: `The frozen baseline tag, baseline commit, PRODUCT_SPEC.md and license text are not modified by this supplement.`
+
